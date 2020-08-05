@@ -1,4 +1,5 @@
-array = [def oxford_comma(array)
+array = ["fiddleheads", "okra", "kohlrabi"]
+
   if array.length == 1
     puts array
   elsif array.length == 2 
